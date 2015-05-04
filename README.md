@@ -1,3 +1,5 @@
+This plugin is no longer supported and no longer functions.
+
 SuperSport.bundle
 =================
 
